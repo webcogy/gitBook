@@ -2,7 +2,7 @@
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
+Becoming a super hero is a fairly straight forward sdfprocess:
 
 ```
 $ give me super-powers
